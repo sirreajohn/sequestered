@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d00800007095ab42a4143b16c7ee791
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clock_text: {fileID: 5416580846015213953, guid: 3158b68e11413c34ebf1214c0c033754, type: 3}
+  - dodge: {fileID: 3769766137821407544, guid: ac816f4a2f1c6ce4db0667d5a5f04558, type: 3}
+  - score: {fileID: 4116367516994323232, guid: d53847971f8b44c488d07f510a79f20b, type: 3}
+  - objective: {fileID: 3826093481885258162, guid: d715d34393bc3d943a21f16e25a80a35, type: 3}
+  - health_bar: {fileID: 464306012913988830, guid: c9d9088f4f64ba345a9f92010971949e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
